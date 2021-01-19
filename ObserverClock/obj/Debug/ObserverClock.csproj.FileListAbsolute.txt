@@ -1,0 +1,17 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\bin\Debug\ObserverClock.exe.config
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\bin\Debug\ObserverClock.exe
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\bin\Debug\ObserverClock.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ClockObserverWindow.g.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\MainWindow.g.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\App.g.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock_MarkupCompile.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock_MarkupCompile.lref
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ClockObserverWindow.baml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\MainWindow.baml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.g.resources
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.Properties.Resources.resources
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.csproj.GenerateResource.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.csproj.CoreCompileInputs.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.exe
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ObserverClock\ObserverClock\obj\Debug\ObserverClock.pdb
